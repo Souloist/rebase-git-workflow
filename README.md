@@ -1,5 +1,5 @@
 # Git Workflow
-This git workflow is a combination of merging and rebasing.
+This git workflow is a combination of merging and rebasing. An in-depth explaination of rebasing vs merging can be found [here](https://github.com/Souloist/rebase-git-workflow/tree/master/rebasing-explained).
 
 ## Guiding Principle (or TLDR)
 
